@@ -1,0 +1,5 @@
+q) why indexing starts from zero in array?
+Indexing in arrays starts from zero because it directly maps to memory addresses:
+the first element is at the base address, so its offset is 0. This makes address calculation simple and efficient.
+
+q) can you store any datatype in an array? - Yes
