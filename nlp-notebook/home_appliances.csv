@@ -1,0 +1,27 @@
+furniture
+date,product,price,quantity
+2024-02-01,Woodle Chair,89,20
+01/02/2024,Office Desk,199,5
+2024-02-03,Coffee Table,149,7
+2024-02-05,Sofa Set,899,2
+2024/02/07,Bed Frame,499,4
+2024-02-07,Bed Frame,499,4
+2024-02-09,Dining Table,,3
+home_appliances
+date,product,price,quantity
+2024-03-01,Air Conditioner X,349,6
+2024/03/03,Refrigerator Pro,799,3
+03-03-2024,Washing Machine,650,4
+2024-03-05,Microwave Oven,120,10
+2024/03/06,Vacuum Cleaner,,8
+2024-03-08,Air Purifier,180,not_known
+2024-03-10,Refrigerator Pro,799,3
+electronics
+date,product,price,quantity
+2024/01/03,Smartphone A,699,10
+2024-01-05,Laptop Pro,1299,5
+2024/01/07,Wireless Earbuds,,15
+2024-01-07,Smartwatch Series 5,249,8
+03-01-2024,4K TV X90,999,3
+2024-01-10,Smartphone A,699,10
+2024/01/12,Tablet Z,not_available,12
